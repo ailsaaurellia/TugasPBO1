@@ -20,7 +20,7 @@ public class Penguin {
         penguin.setHabitat("Di tempat dingin");
         penguin.setBentukTubuh("Aerodinamis dan torpedo");
         penguin.setWarnaBulu("Hitam dan Putih");
-        penguin.setMakanan("Ikan Laut");
+        penguin.setMakanan("Ikan Kecil");
         
         System.out.println("Nama makhluk hidup "+penguin.getNama());
         System.out.println("Berasal dari "+penguin.getAsal());
