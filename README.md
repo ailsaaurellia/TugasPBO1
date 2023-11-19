@@ -13,4 +13,5 @@ Protected dapat diakses dari dalam kelas yang sama, kelas turunan (subclass), da
 Tindakan atau operasi yang membantu Anda memperbaiki, mengorganisir ulang, atau memperbaiki kode sumber Anda dengan lebih efisien dan aman.
 
 ***
-Terima kasih telah membaca, semoga bermanfaat:)
+Terima kasih, semoga bermanfaat!!
+> Ailsa Aurellia (09030622047)
